@@ -1,7 +1,0 @@
-<template>
-  <div class="text-3xl font-bold underline">Hello Nuxt!</div>
-</template>
-
-<script>
-export default {};
-</script>
